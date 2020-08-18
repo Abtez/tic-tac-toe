@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictac-5137b": {
+      "hosting": {
+        "tictac": [
+          "tictac-5137b"
+        ]
+      }
+    }
+  }
+}
